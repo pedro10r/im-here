@@ -34,7 +34,7 @@ export function Home() {
   return (
     <View style={styles.container}>
       <Text style={styles.eventName}>
-        Nome do evento
+        1º Evento de Devs PR
       </Text>
       <Text style={styles.eventDate}>
         Sunday 16 Oct 2022
